@@ -234,5 +234,5 @@ add(385, 897);
 // Día 1: voy por "curso javascript basico Fazt"
 // url: https://www.youtube.com/watch?v=RqQ1d1qEWlE
 
-// minuto: 1:39:10
+// video terminado.
 
